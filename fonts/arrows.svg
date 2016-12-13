@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <font id = "myFont"
+        horiz-adv-x   = "1000"
+        vert-origin-x = "0"
+        vert-origin-y = "0" >
+    <font-face font-family  = "myFont"
+               font-weight  = "normal"
+               units-per-em = "1000">
+      <font-face-src>
+        <font-face-name name="myFont"/>
+      </font-face-src>
+    </font-face>`
+    <glyph unicode=">" d="M0,500A500 500 0 0 0 1000 500A500 500 0 0 0 0 500zM200 500A300 300 0 0 1 800 500A300 300 0 0 1 200 500zM400 700v-400L700 500z" />
+    <glyph unicode="O" d="M0,500A500 500 0 0 0 1000 500A500 500 0 0 0 0 500z" />
+  </font>
+</svg>
